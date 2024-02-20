@@ -1,0 +1,144 @@
+{
+  "tags": [
+    {
+      "title": "React",
+      "amountOfVideos": 154
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 102
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 87
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 209
+    },
+    {
+      "title": "Express.js",
+      "amountOfVideos": 73
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 132
+    },
+    {
+      "title": "Flask",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Spring Boot",
+      "amountOfVideos": 185
+    },
+    {
+      "title": "Laravel",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "ASP.NET Core",
+      "amountOfVideos": 117
+    },
+    {
+      "title": "Ruby on Rails",
+      "amountOfVideos": 96
+    },
+    {
+      "title": "Symfony",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Ember.js",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Meteor",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "Backbone.js",
+      "amountOfVideos": 51
+    },
+    {
+      "title": "Preact",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 19
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 12
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Cycle.js",
+      "amountOfVideos": 8
+    },
+    {
+      "title": "Nuxt.js",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Next.js",
+      "amountOfVideos": 91
+    },
+    {
+      "title": "Gatsby",
+      "amountOfVideos": 84
+    },
+    {
+      "title": "Sapper",
+      "amountOfVideos": 23
+    },
+    {
+      "title": "Gridsome",
+      "amountOfVideos": 15
+    },
+    {
+      "title": "React Native",
+      "amountOfVideos": 192
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 176
+    },
+    {
+      "title": "Ionic",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "NativeScript",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "Xamarin",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "PhoneGap",
+      "amountOfVideos": 69
+    },
+    {
+      "title": "Apache Cordova",
+      "amountOfVideos": 52
+    },
+    {
+      "title": "Quasar Framework",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Onsen UI",
+      "amountOfVideos": 31
+    }
+  ]
+}
