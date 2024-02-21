@@ -2,143 +2,237 @@
   "tags": [
     {
       "title": "React",
-      "amountOfVideos": 154
+      "slug": "old",
+      "amountOfVideos": 154,
+      "id": "e7b3"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 102
+      "slug": "old",
+      "amountOfVideos": 102,
+      "id": "bb43"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 87
+      "slug": "old",
+      "amountOfVideos": 87,
+      "id": "3816"
     },
     {
       "title": "Node.js",
-      "amountOfVideos": 209
+      "slug": "old",
+      "amountOfVideos": 209,
+      "id": "6646"
     },
     {
       "title": "Express.js",
-      "amountOfVideos": 73
+      "slug": "old",
+      "amountOfVideos": 73,
+      "id": "408a"
     },
     {
       "title": "Django",
-      "amountOfVideos": 132
+      "slug": "old",
+      "amountOfVideos": 132,
+      "id": "b483"
     },
     {
       "title": "Flask",
-      "amountOfVideos": 98
+      "slug": "old",
+      "amountOfVideos": 98,
+      "id": "076d"
     },
     {
       "title": "Spring Boot",
-      "amountOfVideos": 185
+      "slug": "old",
+      "amountOfVideos": 185,
+      "id": "7167"
     },
     {
       "title": "Laravel",
-      "amountOfVideos": 150
+      "slug": "old",
+      "amountOfVideos": 150,
+      "id": "a37e"
     },
     {
       "title": "ASP.NET Core",
-      "amountOfVideos": 117
+      "slug": "old",
+      "amountOfVideos": 117,
+      "id": "778e"
     },
     {
       "title": "Ruby on Rails",
-      "amountOfVideos": 96
+      "slug": "old",
+      "amountOfVideos": 96,
+      "id": "a258"
     },
     {
       "title": "Symfony",
-      "amountOfVideos": 65
+      "slug": "old",
+      "amountOfVideos": 65,
+      "id": "f28b"
     },
     {
       "title": "Ember.js",
-      "amountOfVideos": 42
+      "slug": "old",
+      "amountOfVideos": 42,
+      "id": "72c6"
     },
     {
       "title": "Meteor",
-      "amountOfVideos": 78
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "1afb"
     },
     {
       "title": "Svelte",
-      "amountOfVideos": 34
+      "slug": "old",
+      "amountOfVideos": 34,
+      "id": "51af"
     },
     {
       "title": "Backbone.js",
-      "amountOfVideos": 51
+      "slug": "old",
+      "amountOfVideos": 51,
+      "id": "7d70"
     },
     {
       "title": "Preact",
-      "amountOfVideos": 27
+      "slug": "old",
+      "amountOfVideos": 27,
+      "id": "7977"
     },
     {
       "title": "Aurelia",
-      "amountOfVideos": 19
+      "slug": "old",
+      "amountOfVideos": 19,
+      "id": "5103"
     },
     {
       "title": "Mithril",
-      "amountOfVideos": 12
+      "slug": "old",
+      "amountOfVideos": 12,
+      "id": "52dc"
     },
     {
       "title": "Polymer",
-      "amountOfVideos": 37
+      "slug": "old",
+      "amountOfVideos": 37,
+      "id": "ef5c"
     },
     {
       "title": "Cycle.js",
-      "amountOfVideos": 8
+      "slug": "old",
+      "amountOfVideos": 8,
+      "id": "7ce5"
     },
     {
       "title": "Nuxt.js",
-      "amountOfVideos": 63
+      "slug": "old",
+      "amountOfVideos": 63,
+      "id": "77af"
     },
     {
       "title": "Next.js",
-      "amountOfVideos": 91
+      "slug": "old",
+      "amountOfVideos": 91,
+      "id": "e74d"
     },
     {
       "title": "Gatsby",
-      "amountOfVideos": 84
+      "slug": "old",
+      "amountOfVideos": 84,
+      "id": "5140"
     },
     {
       "title": "Sapper",
-      "amountOfVideos": 23
+      "slug": "old",
+      "amountOfVideos": 23,
+      "id": "80f0"
     },
     {
       "title": "Gridsome",
-      "amountOfVideos": 15
+      "slug": "old",
+      "amountOfVideos": 15,
+      "id": "b700"
     },
     {
       "title": "React Native",
-      "amountOfVideos": 192
+      "slug": "old",
+      "amountOfVideos": 192,
+      "id": "84ee"
     },
     {
       "title": "Flutter",
-      "amountOfVideos": 176
+      "slug": "old",
+      "amountOfVideos": 176,
+      "id": "e2ea"
     },
     {
       "title": "Ionic",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "afed"
     },
     {
       "title": "NativeScript",
-      "amountOfVideos": 118
+      "slug": "old",
+      "amountOfVideos": 118,
+      "id": "2308"
     },
     {
       "title": "Xamarin",
-      "amountOfVideos": 95
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "124b"
     },
     {
       "title": "PhoneGap",
-      "amountOfVideos": 69
+      "slug": "old",
+      "amountOfVideos": 69,
+      "id": "f293"
     },
     {
       "title": "Apache Cordova",
-      "amountOfVideos": 52
+      "slug": "old",
+      "amountOfVideos": 52,
+      "id": "fda7"
     },
     {
       "title": "Quasar Framework",
-      "amountOfVideos": 47
+      "slug": "old",
+      "amountOfVideos": 47,
+      "id": "e27d"
     },
     {
       "title": "Onsen UI",
-      "amountOfVideos": 31
+      "slug": "old",
+      "amountOfVideos": 31,
+      "id": "e82d"
+    },
+    {
+      "id": "48c7",
+      "title": "tag do henrique",
+      "slug": "tag-do-henrique",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "93c4",
+      "title": "hsdajkhdjaskhdjsa",
+      "slug": "hsdajkhdjaskhdjsa",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "a96e",
+      "title": "teste-novo",
+      "slug": "testenovo",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "0db2",
+      "title": "deve aparecer sozinho",
+      "slug": "deve-aparecer-sozinho",
+      "amountOfVideos": 0
     }
   ]
 }
